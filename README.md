@@ -1,5 +1,4 @@
 
-As a fresher, your GitHub README bio is an essential way to introduce yourself and showcase your skills, interests, and aspirations to potential employers, collaborators, or open-source contributors. Here's a simple template you can use to create your GitHub README bio:
 
 Hey,there! I'm SHIVANSH MISHRA
 I am a passionate and enthusiastic software developer eager to contribute my skills and knowledge to the world of technology.I'm excited to embark on a journey to explore the ever-evolving world of software development.
